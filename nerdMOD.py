@@ -1,3 +1,5 @@
+# == nerdMOD - 1.0_alpha ==
+
 import os
 import sys
 import time
